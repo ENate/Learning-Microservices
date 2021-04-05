@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ecommerce-example/order-service/src/main/java"/>
+	<classpathentry kind="src" path="ecommerce-example/order-service/src/test/java"/>
+	<classpathentry kind="src" path="ecommerce-example/payment-service/src/main/java"/>
+	<classpathentry kind="src" path="ecommerce-example/payment-service/src/test/java"/>
+	<classpathentry kind="src" path="movie-microservice/discovery-server/src/main/java"/>
+	<classpathentry kind="src" path="movie-microservice/discovery-server/src/test/java"/>
+	<classpathentry kind="src" path="movie-microservice/movie-catalog-service/src/main/java"/>
+	<classpathentry kind="src" path="movie-microservice/movie-catalog-service/src/test/java"/>
+	<classpathentry kind="src" path="movie-microservice/movie-info-service/src/main/java"/>
+	<classpathentry kind="src" path="movie-microservice/movie-info-service/src/test/java"/>
+	<classpathentry kind="src" path="movie-microservice/ratings-data-service/src/main/java"/>
+	<classpathentry kind="src" path="movie-microservice/ratings-data-service/src/test/java"/>
+	<classpathentry kind="src" path="spring-security/springboot-security/src/main/java"/>
+	<classpathentry kind="src" path="spring-security/springboot-security/src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
